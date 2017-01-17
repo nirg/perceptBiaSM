@@ -1,6 +1,6 @@
 # Site settings
-title: PerceptB+SM
-email: your-email@domain.com
+title: PBSM'17
+email: pbsm2017@gmail.com
 url: https://example.github.io
 description: "The 1st International Workshop on Perceptual Biases and Social Media."
 skills: "The 1st International Workshop on Perceptual Biases and Social Media"
@@ -31,28 +31,20 @@ color:
 
 # Footer settings
 footer:
-  copyright: PerceptB+SM
+  copyright: PBSM'17
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: PBSM'17 Around the Web
+  credits: Web Template Creds
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/pbsm2017
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/pbsm2017
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
