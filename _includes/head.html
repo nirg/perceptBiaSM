@@ -4,7 +4,14 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-    {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
+    <meta property="og:description" content="The 1st International Workshop on Perceptual Biases and Social Media" />
+    <meta property="og:image" content="http://pbsm2017.github.io/img/bk_og.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@pbsm2017">
+    <meta name="twitter:title" content="PBSM'17">
+    <meta name="twitter:description" content="The 1st International Workshop on Perceptual Biases and Social Media">
+    <meta name="twitter:image" content="http://pbsm2017.github.io/img/bk_og.jpg">
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
 
